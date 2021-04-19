@@ -238,3 +238,55 @@ By: Zachary Arnold
 ## [Kubernetes Newsletters](https://kubenews.net/)
 
 Kubernetes and Cloud Native Computing Foundation News Sources - How do you keep up with Kubernetes?
+
+## [Kubernetes and Docker - An Enterprise Guide](https://t.co/174vdeL9PO?amp=1)
+
+By: Scott Surovich and Marc Boorshtein
+
+> Apply Kubernetes beyond the basics of Kubernetes clusters by implementing IAM using OIDC and Active Directory, Layer 4 load balancing using MetalLB, advanced service integration, security, auditing, and CI/CD
+
+> ### Key Features
+> * Find out how to add enterprise features to a Kubernetes cluster with theory and exercises to guide you
+> * Understand advanced topics including load balancing, externalDNS, IDP integration, security, auditing, backup, and CI/CD
+> * Create development clusters for unique testing requirements, including running multiple clusters on a single server to simulate an enterprise environment
+
+> ### Book Description
+
+> Containerization has changed the DevOps game completely, with Docker and Kubernetes playing important roles in altering the flow of app creation and deployment.
+
+> This book will help you acquire the knowledge and tools required to integrate Kubernetes clusters in an enterprise environment.
+
+> The book begins by introducing you to Docker and Kubernetes fundamentals, including a review of basic Kubernetes objects. You'll then get to grips with containerization and understand its core functionalities, including how to create ephemeral multinode clusters using kind. As you make progress, you'll learn about cluster architecture, Kubernetes cluster deployment, and cluster management, and get started with application deployment. Moving on, you'll find out how to integrate your container to a cloud platform and integrate tools including MetalLB, externalDNS, OpenID connect (OIDC), pod security policies (PSPs), Open Policy Agent (OPA), Falco, and Velero. Finally, you will discover how to deploy an entire platform to the cloud using continuous integration and continuous delivery (CI/CD).
+
+> By the end of this Kubernetes book, you will have learned how to create development clusters for testing applications and Kubernetes components, and be able to secure and audit a cluster by implementing various open-source solutions including OpenUnison, OPA, Falco, Kibana, and Velero.
+
+> ### What you will learn
+> * Create a multinode Kubernetes cluster using kind
+> * Implement Ingress, MetalLB, and ExternalDNS
+> * Configure a cluster OIDC using impersonation
+> * Map enterprise authorization to Kubernetes
+> * Secure clusters using PSPs and OPA
+> * Enhance auditing using Falco and EFK
+> * Back up your workload for disaster recovery and cluster migration
+> * Deploy to a platform using Tekton, GitLab, and ArgoCD
+
+> ### Who this book is for
+
+> This book is for anyone interested in DevOps, containerization, and going beyond basic Kubernetes cluster deployments. DevOps engineers, developers, and system administrators looking to enhance their IT career paths will also find this book helpful. Although some prior experience with Docker and Kubernetes is recommended, this book includes a Kubernetes bootcamp that provides a description of Kubernetes objects to help you if you are new to the topic or need a refresher.
+
+> ### Table of Contents
+> 1. Docker and Containers Essentials
+> 2. Working with Docker Data
+> 3. Understanding Docker Networking
+> 4. Deploying Kubernetes using Kind
+> 5. Kubernetes Bootcamp
+> 6. Services, Load Balancing, and External DNS
+> 7. Integrating Authentication into your Cluster
+> 8. RBAC Policies and Auditing
+> 9. Deploying a Secured Kubernetes Dashboard
+> 10. Creating Pod Security Policies
+> 11. Extending Security using Open Policy Agent
+> 12. Auditing using Falco and EFK
+> 13. Backing up Workloads
+> 14. Provisioning a Platform
+
